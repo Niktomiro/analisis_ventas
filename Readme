@@ -1,5 +1,10 @@
 Este es un repositorio para un proyecto Core de parte del curso de Skillnest.
-Se trata de un proyecto de análisis de datos con Pandas y NumPy en Python.
-Para ello, usaremos un set de datos en KAggle para poder llevar a cabo
-la investigación de las ventas en una tienda de Retail.
+Para esta tarea, decidí practicar con Numpy y hacer los procesos con esa librería.
 
+Este proyecto contiene las siguientes partes:
+
+Readme : Este archivo.
+/code  : El directorio con el procesamiento de datos y ejecución de información filtrada.
+/data  : El directorio con la data a procesar en formato .csv, descargada desde Kaggle según instrucciones.
+
+para clonar, usar el siguiente link: https://github.com/Niktomiro/analisis_ventas.git
