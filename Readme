@@ -1,1 +1,10 @@
 Este es un repositorio para un proyecto Core de parte del curso de Skillnest.
+Para esta tarea, decidí practicar con Numpy y hacer los procesos con esa librería.
+
+Este proyecto contiene las siguientes partes:
+
+Readme : Este archivo.
+/code  : El directorio con el procesamiento de datos y ejecución de información filtrada.
+/data  : El directorio con la data a procesar en formato .csv, descargada desde Kaggle según instrucciones.
+
+para clonar, usar el siguiente link: https://github.com/Niktomiro/analisis_ventas.git
